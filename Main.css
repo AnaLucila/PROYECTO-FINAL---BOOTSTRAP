@@ -92,7 +92,7 @@ footer p {
     margin-top: 10px;
 }
 
-/*Media Queries para pantacha mediana*/
+/*Media Queries para pantalla mediana*/
 
 @media (max-width:1200px){
     #local {
@@ -110,7 +110,7 @@ footer p {
 
 
 
-/*Media Queries para pantacha chica*/
+/*Media Queries para pantalla chica*/
 
 @media (max-width:768px) {
     #intro, #equipo {
@@ -124,7 +124,7 @@ footer p {
         text-align: center;
     }
 }
-/*Media Queries para pantacha muy chica*/
+/*Media Queries para pantalla muy chica*/
 
 @media (max-width:576px) {
     .icono-wrap{
