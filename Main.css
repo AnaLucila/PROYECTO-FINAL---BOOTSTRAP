@@ -123,6 +123,14 @@ footer p {
         width: 100% !important;
         text-align: center;
     }
+ 
+    .mapa {
+    width: 50% !important;
+    height: 250px;
+    }
+    .wrapper{
+    width: 50%;
+    }
 }
 /*Media Queries para pantalla muy chica*/
 
